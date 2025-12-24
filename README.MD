@@ -8,6 +8,10 @@
 ### Mallorn Astronomical Classification Challenge
 ### Kết quả tốt nhất hiện tại (Trên Public Leaderboard: 0.6458 - Rank 49)
 
+![](imgs/00_00_25_12_2025.png)
+
+*Update: 00:00 - 25/12/2025*
+
 > **Mục tiêu:** Phân loại sự kiện **Tidal Disruption Events (TDE)** - hiện tượng hố đen xé toạc ngôi sao - khỏi các tín hiệu khác (Supernova, AGN) dựa trên dữ liệu chuỗi thời gian ánh sáng (Lightcurves).
 
 ---
