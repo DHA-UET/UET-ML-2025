@@ -46,7 +46,7 @@ Thử nghiệm 3 chiến lược trích xuất đặc trưng:
 | Chiến lược | Mô tả | F1-Score | Nhận xét |
 | :--- | :--- | :--- | :--- |
 | **Baseline** | Thống kê cơ bản (Min, Max, Mean, Std) | **0.39** | Mất thông tin về hình dáng chuỗi. |
-| **Auto-ML (tsfresh)** | Fourier Transform, Entropy, Autocorrelation | **0.42** | Có thể có nhiễu, ít ý nghĩa vật lý. |
+| **Auto-FE (tsfresh)** | Fourier Transform, Entropy, Autocorrelation | **0.42** | Có thể có nhiễu, ít ý nghĩa vật lý. |
 | **Physics-Based** | **Mô hình hóa Vật lý (Power Law, Bazin, Color)** | **0.63** | Hiệu quả vượt trội nhờ "hiểu" dữ liệu. |
 
 **Các đặc trưng Vật lý quan trọng:**
