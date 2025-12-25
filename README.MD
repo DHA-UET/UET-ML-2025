@@ -72,7 +72,7 @@ Nhóm đã thử nghiệm **Multi-channel LSTM** và **Spectral CNN** (xử lý 
 
 ## Kết quả (Results)
 
-Biểu đồ so sánh hiệu năng qua các giai đoạn phát triển mô hình:
+So sánh hiệu năng qua các giai đoạn phát triển mô hình:
 
 | Model / Approach | Public F1-Score | Ghi chú |
 | :--- | :--- | :--- |
